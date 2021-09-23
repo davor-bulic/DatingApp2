@@ -19,10 +19,12 @@
     "@angular/platform-browser-dynamic": "~12.2.0",
     "@angular/router": "~12.2.0",
     "bootstrap": "^4.5.3",
+    "classlist.js": "^1.1.20150312",
     "font-awesome": "^4.7.0",
     "ngx-bootstrap": "^7.1.0",
     "rxjs": "~6.6.0",
     "tslib": "^2.3.0",
+    "web-animations-js": "^2.3.2",
     "zone.js": "~0.11.4"
   },
   "devDependencies": {
