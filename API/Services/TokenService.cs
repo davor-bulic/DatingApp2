@@ -10,7 +10,7 @@ using Microsoft.IdentityModel.Tokens;
 
 namespace API.Services
 {
-    public class TokenService : ITokenInterface
+    public class TokenService : ITokenService
     {
         private readonly SymmetricSecurityKey _key;
         public TokenService(IConfiguration config)
